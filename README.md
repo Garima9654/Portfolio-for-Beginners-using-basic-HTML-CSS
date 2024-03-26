@@ -12,4 +12,4 @@ for making good looking and advance portfolios
 You can visit to these links:
 https://www.youtube.com/watch?v=vijvtdEXfec
 
-https://ayans-portfolio.netlify.app/
+
